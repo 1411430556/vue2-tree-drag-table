@@ -1,0 +1,658 @@
+[
+  {
+    "id": 16,
+    "name": "测试11111",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": [
+      {
+        "id": 25,
+        "groups_id": 16,
+        "name": "12345677798",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "测试123456",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": [
+      {
+        "id": 24,
+        "groups_id": 15,
+        "name": "11111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 23,
+        "groups_id": 15,
+        "name": "测试1111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 22,
+        "groups_id": 15,
+        "name": "测试1111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "测试1级",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": []
+  },
+  {
+    "id": 13,
+    "name": "测试1级",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": []
+  },
+  {
+    "id": 12,
+    "name": "商品分组",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": [
+      {
+        "id": 19,
+        "groups_id": 12,
+        "name": "111111111111111111111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 18,
+        "groups_id": 12,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 6,
+        "groups_id": 12,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 5,
+        "groups_id": 12,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 4,
+        "groups_id": 12,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 3,
+        "groups_id": 12,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "商品分组",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": [
+      {
+        "id": 15,
+        "groups_id": 11,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": [
+          {
+            "id": 179,
+            "groups_items_id": 15,
+            "name": "111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 180,
+            "groups_items_id": 15,
+            "name": "ces123",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 181,
+            "groups_items_id": 15,
+            "name": "ces123",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 182,
+            "groups_items_id": 15,
+            "name": "ces123",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 183,
+            "groups_items_id": 15,
+            "name": "ces123",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 184,
+            "groups_items_id": 15,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "groups_id": 11,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 13,
+        "groups_id": 11,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 12,
+        "groups_id": 11,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 11,
+        "groups_id": 11,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 10,
+        "groups_id": 11,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 9,
+        "groups_id": 11,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 8,
+        "groups_id": 11,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 7,
+        "groups_id": 11,
+        "name": "111",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "商品分组",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": []
+  },
+  {
+    "id": 9,
+    "name": "测试分组",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": [
+      {
+        "id": 21,
+        "groups_id": 9,
+        "name": "测试1",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 20,
+        "groups_id": 9,
+        "name": "测试1",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 17,
+        "groups_id": 9,
+        "name": "测试1",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 16,
+        "groups_id": 9,
+        "name": "测试",
+        "is_hidden": 0,
+        "order": 0,
+        "product": [
+          {
+            "id": 185,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 186,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 187,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 188,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 189,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 190,
+            "groups_items_id": 16,
+            "name": "ces11",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 191,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 192,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 193,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 194,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 195,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 196,
+            "groups_items_id": 16,
+            "name": "ces11",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 197,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 198,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 199,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 200,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 201,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 202,
+            "groups_items_id": 16,
+            "name": "11",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 203,
+            "groups_items_id": 16,
+            "name": "111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 204,
+            "groups_items_id": 16,
+            "name": "111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 205,
+            "groups_items_id": 16,
+            "name": "111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 206,
+            "groups_items_id": 16,
+            "name": "ces11",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 207,
+            "groups_items_id": 16,
+            "name": "ces111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 208,
+            "groups_items_id": 16,
+            "name": "111",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 209,
+            "groups_items_id": 16,
+            "name": "11",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 210,
+            "groups_items_id": 16,
+            "name": "11",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          },
+          {
+            "id": 210,
+            "groups_items_id": 16,
+            "name": "11",
+            "type": "host",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "虚拟主机"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "123",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": []
+  },
+  {
+    "id": 7,
+    "name": "123",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": []
+  },
+  {
+    "id": 5,
+    "name": "123",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": []
+  },
+  {
+    "id": 4,
+    "name": "test",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": []
+  },
+  {
+    "id": 3,
+    "name": "test",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": []
+  },
+  {
+    "id": 2,
+    "name": "test",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": []
+  },
+  {
+    "id": 1,
+    "name": "123",
+    "is_hidden": 0,
+    "order": 0,
+    "groups_items": [
+      {
+        "id": 2,
+        "groups_id": 1,
+        "name": "二级分组2",
+        "is_hidden": 0,
+        "order": 0,
+        "product": []
+      },
+      {
+        "id": 1,
+        "groups_id": 1,
+        "name": "二级分组1",
+        "is_hidden": 0,
+        "order": 0,
+        "product": [
+          {
+            "id": 171,
+            "groups_items_id": 1,
+            "name": "产品名称",
+            "type": "cloud",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "云服务器"
+          },
+          {
+            "id": 173,
+            "groups_items_id": 1,
+            "name": "新产品名称",
+            "type": "cloud",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "云服务器"
+          },
+          {
+            "id": 174,
+            "groups_items_id": 1,
+            "name": "新产品名称",
+            "type": "cloud",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "云服务器"
+          },
+          {
+            "id": 177,
+            "groups_items_id": 1,
+            "name": "新产品名称",
+            "type": "cloud",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "云服务器"
+          },
+          {
+            "id": 178,
+            "groups_items_id": 1,
+            "name": "产品名称",
+            "type": "cloud",
+            "stock_control": 0,
+            "stock_qty": 0,
+            "type_name": "云服务器"
+          }
+        ]
+      }
+    ]
+  }
+]
