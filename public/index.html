@@ -6,6 +6,30 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <title>树形拖拽表格</title>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        background-color: #ffffff;
+        color: #2c3e50;
+        transition: all 0.3s ease !important;
+      }
+      
+      html.dark-mode, body.dark-mode {
+        background-color: #1a1a1a !important;
+        color: #e0e0e0 !important;
+      }
+      
+      html.dark-mode body {
+        background-color: #1a1a1a !important;
+      }
+      
+      * {
+        transition: all 0.3s ease !important;
+      }
+    </style>
   </head>
   <body>
     <noscript>

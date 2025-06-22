@@ -223,77 +223,89 @@ export default {
 <style scoped>
 .tree-table-container {
   margin: 20px;
-  border: 1px solid #ebeef5;
+  border: 1px solid var(--item-border);
   border-radius: 4px;
+  transition: all 0.3s ease !important;
 }
 
 .level-one-list {
   width: 100%;
+  transition: all 0.3s ease !important;
 }
 
 .level-one-item {
   margin-bottom: 10px;
-  border: 1px solid #dcdfe6;
+  border: 1px solid var(--item-border);
   border-radius: 4px;
-  background-color: #f8f8f8;
+  background-color: var(--item-bg);
+  transition: all 0.3s ease !important;
 }
 
 .level-one-header {
   padding: 10px;
   font-weight: bold;
-  background-color: #ecf5ff;
-  border-bottom: 1px solid #dcdfe6;
+  background-color: var(--item-bg);
+  border-bottom: 1px solid var(--item-border);
   display: flex;
   align-items: center;
+  transition: all 0.3s ease !important;
 }
 
 .level-two-list {
   padding: 5px;
   min-height: 30px;
+  transition: all 0.3s ease !important;
 }
 
 .level-two-item {
   margin: 5px 0;
-  border: 1px solid #e1e4e8;
+  border: 1px solid var(--item-border);
   border-radius: 4px;
-  background-color: #fff;
+  background-color: var(--item-bg);
+  transition: all 0.3s ease !important;
 }
 
 .level-two-header {
   padding: 8px;
-  border-bottom: 1px solid #ebeef5;
+  border-bottom: 1px solid var(--item-border);
   display: flex;
   align-items: center;
+  transition: all 0.3s ease !important;
 }
 
 .product-list {
   padding: 8px;
-  background-color: #fafafa;
+  background-color: var(--item-hover);
+  transition: all 0.3s ease !important;
 }
 
 .product-item {
   padding: 4px 8px;
   margin: 2px 0;
-  background-color: #f0f9eb;
+  background-color: var(--item-hover);
   border-radius: 4px;
   font-size: 12px;
+  transition: all 0.3s ease !important;
 }
 
 .drag-handle-level-one,
 .drag-handle-level-two {
   cursor: move;
   margin-right: 8px;
-  color: #909399;
+  color: var(--text-color);
+  transition: all 0.3s ease !important;
 }
 
 /* 拖拽时的样式 */
 .sortable-ghost {
   opacity: 0.5;
-  background: #c8ebfb;
+  background: var(--tips-border);
+  transition: all 0.3s ease !important;
 }
 
 .sortable-drag {
   opacity: 0.8;
-  background: #daf5ff;
+  background: var(--item-hover);
+  transition: all 0.3s ease !important;
 }
 </style> 
